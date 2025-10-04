@@ -96,10 +96,11 @@ This bar chart compares the total revenue for each product category in 2024.
 
 ---
 
-## 🙌 Acknowledgements
+## Acknowledgements
 - Analysis and visualizations performed using **Microsoft Excel**.  
 - Dataset prepared for educational purposes.  
 - Project authored by *[Abdulkarim Abdulrazak]*.
+
 
 
 
