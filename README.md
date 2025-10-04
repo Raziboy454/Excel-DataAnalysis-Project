@@ -33,8 +33,8 @@ Each row includes:
 |------|--------------|
 | `Ecom Dataset.csv` | Raw dataset used for the analysis |
 | `Project 1.xlsx` | Excel workbook containing calculations, pivot tables, and charts |
-| `bar chart.png` | 2024 Revenue by Category (Bar Chart) |
-| `line chart.png` | Monthly Revenue by Region (Line Chart) |
+| `bar-chart.png` | 2024 Revenue by Category (Bar Chart) |
+| `line-chart.png` | Monthly Revenue by Region (Line Chart) |
 | `README.md` | Documentation and explanation of the project |
 
 ---
@@ -58,12 +58,12 @@ After categorizing transactions based on customer history, the total revenue by 
 This chart shows how revenue fluctuated across different regions over time.  
 Each colored line represents one region.
 
-![Monthly Revenue Trends](line_chart.png)
+![Monthly Revenue Trends](line-chart.png)
 
 ### 2024 Revenue by Category
 This bar chart compares the total revenue for each product category in 2024.
 
-![2024 Revenue by Category](bar_chart.png)
+![2024 Revenue by Category](bar-chart.png)
 
 ---
 
@@ -100,5 +100,6 @@ This bar chart compares the total revenue for each product category in 2024.
 - Analysis and visualizations performed using **Microsoft Excel**.  
 - Dataset prepared for educational purposes.  
 - Project authored by *[Abdulkarim Abdulrazak]*.
+
 
 
